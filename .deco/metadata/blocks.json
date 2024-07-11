@@ -104,5 +104,13 @@
   "/.deco/blocks/Vanilla.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Theme/Theme.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FComponent.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Component.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Factions%2FChangeColors.tsx.json": {
+    "blockType": "actions",
+    "__resolveType": "site/actions/ChangeColors.tsx"
   }
 }
