@@ -112,5 +112,9 @@
   "/.deco/blocks/Preview%20%2Factions%2FChangeColors.tsx.json": {
     "blockType": "actions",
     "__resolveType": "site/actions/ChangeColors.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FChangeBackground.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/ChangeBackground.tsx"
   }
 }
